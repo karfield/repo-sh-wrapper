@@ -20,4 +20,11 @@ USAGE:
     checkout-repo.sh REPO_DIR CHECKOUT_DIR
 
 
+BTW
+===
+
+THE $REPO_PATH is the path your repo util stored. you can get the 'repo' like
+this way
+
+    git clone git://android.git.kernel.org/tools/repo.git
 
